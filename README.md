@@ -1,7 +1,7 @@
-# 📊 UFC 315: Análise de Performance e Análise Preditiva de Ritmo de Luta
+# 📊 UFC 329: Análise de Performance e Análise Preditiva de Ritmo de Luta
 ## Conor McGregor vs. Max Holloway II (Agosto de 2026)
 
-Este projeto apresenta uma infraestrutura completa de dados (Data Pipeline) que integra engenharia e análise de dados para prever e analisar cenários de performance para a revanche histórica entre Conor McGregor e Max Holloway no UFC 315. 
+Este projeto apresenta uma infraestrutura completa de dados (Data Pipeline) que integra engenharia e análise de dados para prever e analisar cenários de performance para a revanche histórica entre Conor McGregor e Max Holloway no UFC 329. 
 
 O projeto demonstra competência em extração de regras de negócio, modelagem em nuvem utilizando **Google BigQuery (SQL)** e desenvolvimento de inteligência de negócios visual no **Power BI**.
 
